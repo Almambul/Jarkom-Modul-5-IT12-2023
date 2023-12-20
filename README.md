@@ -8,5 +8,8 @@
 ## Topologi
 ![image](https://github.com/Almambul/Jarkom-Modul-5-IT12-2023/assets/107543354/b408c850-9ec6-4209-8b8e-162a1a152cfd)
 
+## Pembagian Subnet
+![image](https://github.com/Almambul/Jarkom-Modul-5-IT12-2023/assets/107543354/148b435e-e5e5-427c-87ee-3632934b0042)
+
 ## Tree VLSM
 ![WhatsApp Image 2023-12-19 at 21 28 02](https://github.com/Almambul/Jarkom-Modul-5-IT12-2023/assets/107543354/b76d4fca-ed35-4435-846d-4f0c2c31f4ff)
